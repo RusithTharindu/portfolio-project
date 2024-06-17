@@ -61,7 +61,7 @@ const Hero = () => {
                     <ColorBar color="#416B94" width="45%"/>
                 </div>
 
-                <div className="mt-[30px] flex flex-row w-full md:w-2/3 lg:w-1/3 justify-between items-center">
+                <div className="mt-[30px] mb-10 md:mb-0 flex flex-row w-full md:w-2/3 lg:w-1/3 justify-between items-center">
                     <a href="https://github.com/RusithTharindu">
                         <Image
                             src="/assets/icons/github.png"
