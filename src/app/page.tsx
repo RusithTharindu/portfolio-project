@@ -1,7 +1,7 @@
 "use client"
 
 import Hero from "@/components/hero";
-import Loader from "@/components/loader";
+import Loader from "@/components/Loader"
 
 export default function Home() {
   return (
