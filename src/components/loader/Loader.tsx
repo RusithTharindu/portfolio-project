@@ -3,7 +3,7 @@
 import React from "react";
 import { useEffect } from "react";
 
-const loader = () => {
+const Loader = () => {
   useEffect(() => {
     const loader = document.querySelector(".loader");
     if (loader) {
@@ -22,4 +22,4 @@ const loader = () => {
   );
 };
 
-export default loader;
+export default Loader;
